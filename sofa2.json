@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Диван Brownie Memori угловой левый FIRST",
+    "brand": "Шатура",
+    "original_price": 166850,
+    "discounted_price": 155000,
+    "discount_percentage": "7%",
+    "dimensions": "3100x1740x810 мм",
+    "color": "Коричневый",
+    "monthly_sales": [
+      81,
+      176,
+      109,
+      58,
+      86,
+      158,
+      173,
+      126,
+      168,
+      121,
+      91,
+      98
+    ],
+    "total_sales": 1445
+  }
+]

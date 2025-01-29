@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Диван Brioche Memori компактный угловой пр/лев Optimum",
+    "brand": "Шатура",
+    "original_price": 165070,
+    "discounted_price": 149000,
+    "discount_percentage": "10%",
+    "dimensions": "2620x1110x700 мм",
+    "color": "Серый",
+    "monthly_sales": [
+      53,
+      165,
+      56,
+      140,
+      71,
+      78,
+      130,
+      87,
+      62,
+      186,
+      186,
+      186
+    ],
+    "total_sales": 1400
+  }
+]
